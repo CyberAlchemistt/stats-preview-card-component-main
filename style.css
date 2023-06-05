@@ -98,7 +98,7 @@ body{
     font-size: 22px;
     font-weight: 700;
 }
-@media (max-width: 375px) {
+@media (max-width: 900px) {
     .card{
         justify-content: flex-start;
     align-items: flex-start;
